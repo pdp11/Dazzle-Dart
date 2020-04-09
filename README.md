@@ -13,6 +13,7 @@ included.
 There was an attempt to port it to the AI Lab PDP-6 and 10 using the
 Type 340 display.  The scanned listing is included, and it has been
 converted to a machine readable file though there may still be typos.
+Version 122 comes from a tape image.
 
 There is some more information
 [here](https://www.kaleberg.com/dazzle/dazzle.html), and the game was
