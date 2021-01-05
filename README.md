@@ -5,8 +5,10 @@ It ran on the MIT Logo group PDP-11/45 in the mid 1970s and used a one
 of a kind display system by Tom Knight.  It's based on the short story
 [*"Bullard
 Reflects"*](https://gutenberg.ca/ebooks/jamesonm-bullard06bullardreflects/jamesonm-bullard06bullardreflects-00-h.html)
-by Malcom Jameson.  The source for the ACM SIGCUE article [*"Dazzle
-dart: reflections on computer
+by Malcom Jameson.  The game was mentioned in AI memo 356 [*Logo
+Progress Report 1973-1975*](AIM-356.pdf); see section 2.5.2.  The
+source for the ACM SIGCUE article [*"Dazzle dart: reflections on
+computer
 games"*](https://dl.acm.org/citation.cfm?doid=1216479.1216482) is
 included.
 
